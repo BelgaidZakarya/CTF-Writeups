@@ -38,4 +38,9 @@ Ok, now I decrypt the data
 
 ![decrypt](./src/decrypt.png)
 
-The flag must be `KorNewbie{root_d459bdb6f5c094f2efdacfb9527e81fe}`, although I can't check it because the CTF have been paused for a 15 hours by now =)
+The flag must be the cracked string of the MD5 that we have found
+
+![md5_cracked](./src/md5_cracked.png)
+
+the final flag would be
+`KorNewbie{root_IronDragon}`
